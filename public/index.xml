@@ -6,16 +6,27 @@
     <description>Recent content on Over Engineered</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2022</copyright>
     <lastBuildDate>Thu, 19 May 2022 10:02:35 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 19 May 2022 10:27:01 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This will be filled out later</description>
+      <content>&lt;p&gt;This will be filled out later&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Thu, 19 May 2022 10:02:35 -0400</pubDate>
       
       <guid>/posts/my-first-post/</guid>
-      <description></description>
-      <content></content>
+      <description>Here is my first post!</description>
+      <content>&lt;p&gt;Here is my first post!&lt;/p&gt;
+</content>
     </item>
     
   </channel>

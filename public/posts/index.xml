@@ -6,7 +6,6 @@
     <description>Recent content in Posts on Over Engineered</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2022</copyright>
     <lastBuildDate>Thu, 19 May 2022 10:02:35 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
@@ -14,8 +13,9 @@
       <pubDate>Thu, 19 May 2022 10:02:35 -0400</pubDate>
       
       <guid>/posts/my-first-post/</guid>
-      <description></description>
-      <content></content>
+      <description>Here is my first post!</description>
+      <content>&lt;p&gt;Here is my first post!&lt;/p&gt;
+</content>
     </item>
     
   </channel>
