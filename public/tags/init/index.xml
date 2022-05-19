@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Over Engineered</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Over Engineered</description>
+    <title>init on Over Engineered</title>
+    <link>/tags/init/</link>
+    <description>Recent content in init on Over Engineered</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 May 2022 10:02:35 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 10:02:35 -0400</lastBuildDate><atom:link href="/tags/init/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my blog</title>
       <link>/posts/my-first-post/</link>

@@ -8,24 +8,49 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 19 May 2022 10:02:35 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>/about/</link>
       <pubDate>Thu, 19 May 2022 10:27:01 -0400</pubDate>
       
       <guid>/about/</guid>
-      <description>This will be filled out later</description>
-      <content>&lt;p&gt;This will be filled out later&lt;/p&gt;
+      <description>Hi, my name is David Cunliffe. I have been interested in computers and software since I learned BASIC in the early 1990’s. I took up hobbyist computing and learned about software programming, hardware hacking, BBS’s, and this wonderful thing called electronic mail.
+After high school, I became interested in the newly commercialized Internet that promised to change the world. I started my first job working for AOL and CompuServe and have been in and out of IT since.</description>
+      <content>&lt;p&gt;Hi, my name is David Cunliffe. I have been interested in computers and software since I learned BASIC in the early 1990’s. I took up hobbyist computing and learned about software programming, hardware hacking, BBS’s, and this wonderful thing called electronic mail.&lt;/p&gt;
+&lt;p&gt;After high school, I became interested in the newly commercialized Internet that promised to change the world. I started my first job working for AOL and CompuServe and have been in and out of IT since. I recently started to do consulting a few years back and web hosting in the early days of the Internet. The Internet has indeed changed the world since those early days in the 90’s. Along the way, I’ve worked for all manner of businesses as both an employee and a consultant, providing advice, mentoring, and software programming services. I have had a great time so far, and I am looking forward to what comes next. I hope the things that I post here help you with your journey.&lt;/p&gt;
+&lt;p&gt;I specialize in designing and building infrastructure using a variety of technologies and cloud based platforms. You can see a small sampling of my skills and experience right here in my blog. I provide technology and software consulting services through 2nd Watch, Inc to which opinions are my own and not the views of my employer. If you are interested in my services, please send me a message and I will reply promptly.&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>My First Post</title>
+      <title>Welcome to my blog</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Thu, 19 May 2022 10:02:35 -0400</pubDate>
       
       <guid>/posts/my-first-post/</guid>
-      <description>Here is my first post!</description>
-      <content>&lt;p&gt;Here is my first post!&lt;/p&gt;
+      <description>Welcome Hey all this is my first blog post. The concept of this blog is to educate and show a glimpse of my day to day. I hope to produce content at least weekly to get started.
+Will be covering different technology aspects centered around DevOps and Cloud Services. The other will be around general automation tools and services I use to gear up for an engagement.
+If your interested in following along on other platforms.</description>
+      <content>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;Hey all this is my first blog post. The concept of this blog
+is to educate and show a glimpse of my day to day. I hope to produce content at
+least weekly to get started.&lt;/p&gt;
+&lt;p&gt;Will be covering different technology aspects centered around DevOps and Cloud
+Services. The other will be around general automation tools and services I use
+to gear up for an engagement.&lt;/p&gt;
+&lt;h2 id=&#34;if-your-interested-in-following-along-on-other-platforms&#34;&gt;If your interested in following along on other platforms.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/davidccunliffe/&#34;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/davidccunliffe&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/2Wdavidcunliffe&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;i-really-am-excited-to-start-sharing-my-journey-with-you-around&#34;&gt;I really am excited to start sharing my journey with you around.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Culture&lt;/li&gt;
+&lt;li&gt;Virtualization&lt;/li&gt;
+&lt;li&gt;Containerization&lt;/li&gt;
+&lt;li&gt;Cloud Services&lt;/li&gt;
+&lt;li&gt;Tooling/Utilies&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     

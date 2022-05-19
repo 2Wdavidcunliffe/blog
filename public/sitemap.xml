@@ -5,7 +5,13 @@
     <loc>/about/</loc>
     <lastmod>2022-05-19T10:27:01-04:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>/tags/about-me/</loc>
+    <lastmod>2022-05-19T10:02:35-04:00</lastmod>
+  </url><url>
+    <loc>/tags/first/</loc>
+    <lastmod>2022-05-19T10:02:35-04:00</lastmod>
+  </url><url>
+    <loc>/tags/init/</loc>
     <lastmod>2022-05-19T10:02:35-04:00</lastmod>
   </url><url>
     <loc>/</loc>
@@ -14,8 +20,15 @@
     <loc>/posts/</loc>
     <lastmod>2022-05-19T10:02:35-04:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-  </url><url>
     <loc>/tags/</loc>
+    <lastmod>2022-05-19T10:02:35-04:00</lastmod>
+  </url><url>
+    <loc>/tags/welcome/</loc>
+    <lastmod>2022-05-19T10:02:35-04:00</lastmod>
+  </url><url>
+    <loc>/posts/my-first-post/</loc>
+    <lastmod>2022-05-19T10:02:35-04:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
 </urlset>
