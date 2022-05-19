@@ -63,11 +63,11 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "Over Engineered"
+    subtitle = "A simple, life of a cloud consultant"
+    owner = "David Cunliffe"
     keywords = ""
-    copyright = ""
+    copyright = "2022"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -85,7 +85,7 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+     # [[languages.en.menu.main]]
+     #   identifier = "showcase"
+     #   name = "Showcase"
+     #   url = "/showcase"
